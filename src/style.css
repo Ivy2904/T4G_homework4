@@ -1,0 +1,86 @@
+.header{
+    background-image: url(../images/Organic-Foods-on-the-Rise.jpeg);
+    height: 300px;
+    padding: 30px;
+    background-size: cover;
+    box-shadow: 0px 4px 8px ;
+
+}
+ .my_nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(190, 244, 66);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 3px;
+    padding: 6px;
+ }
+
+ /* .my_nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(60, 38, 9);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 3px;
+    padding: 6px;
+    gap: 4rem;
+ } */
+.container1{
+    display: flex
+    
+}
+.heading{
+    display: flex;
+    flex-wrap: wrap;
+margin: 250;
+word-spacing: 550;
+}
+.others{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(245, 242, 239);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 3px;
+    padding: 6px;
+    gap: 22rem
+}
+.image{
+    display: flex;
+    gap: 10px;
+}
+.img_para{
+  display: flex;
+  flex-wrap: wrap;  
+  justify-content: center;margin: 10px;
+  gap: 20px;
+}
+.aboutus h2{
+    font-size: 38px;
+    margin-bottom: 20px;
+    color: blueviolet;
+    text-align: center;
+}
+.staffp ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(60, 38, 9);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 3px;
+    padding: 6px;
+    gap: 4rem;
+}
+.final_div{
+    display: flex;
+    gap: 2rem;
+}
+.foodeez{
+    display: flex;
+    justify-content: center;
+}
